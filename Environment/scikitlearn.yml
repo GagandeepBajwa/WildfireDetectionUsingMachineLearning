@@ -1,0 +1,19 @@
+name: wildfire-detection-scikit-learn
+dependencies:
+    - python=3.6
+    - anaconda
+    - tqdm
+    - opencv
+    - pip
+    - pip:
+        - scikit-learn
+        - numpy
+        - scipy
+        - matplotlib
+        - ipython
+        - jupyter
+        - joblib
+        - pandas
+        - sympy
+        - nose
+    
